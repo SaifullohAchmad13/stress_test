@@ -4,7 +4,7 @@ import random
 import time
 
 # --- Config ---
-endpoint = "http://localhost:8000/v1"
+endpoint = "http://16.79.99.56:8000/v1"
 api_key = "dummy"
 model = "dummy"
 chat_msg = "Halo, apa kabar?"

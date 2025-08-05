@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 
 # ==== Configuration (Edit if needed) ====
-endpoint = "http://localhost:8000/v1"
+endpoint = "http://43.218.81.123:8003/v1"
 model = "dummy"
 text = "Hello, how are you?"
 voice = "ono"
